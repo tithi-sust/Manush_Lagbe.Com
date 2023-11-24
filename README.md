@@ -20,12 +20,13 @@ The main idea of this project is to find local workers (like chef, plumber, elec
 #### ER Diagram
 ![ER Diagram](https://github.com/tithi-sust/Manush_Lagbe.Com/blob/main/icons/ER_Diagram.png?raw=true)
 #### DEMONSTRATION
-The project's demonstration video will be found in here: 
+The project's demonstration video will be found in here:<br>
+
 [![Video](https://github.com/tithi-sust/Manush_Lagbe.Com/blob/main/icons/Screenshot%20from%202022-03-16%2011-18-06.png?raw=true)](https://youtu.be/L_lgeAlNYsU)
 
 
 
-
-######Every details are listed in this doc.
+<br>
+Every details are listed in this doc.
 <a href="https://docs.google.com/document/d/1L73B_FTM0_hO6uaxNzzwqd2u9qm6KS1d9j1KXLWFLL8/edit?usp=sharing">google docs</a>
 
