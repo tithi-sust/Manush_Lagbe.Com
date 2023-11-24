@@ -18,7 +18,7 @@ The main idea of this project is to find local workers (like chef, plumber, elec
 - Rating and Review System
 - Work History
 #### ER Diagram
-![ER Diagram](https://github.com/tithi-sust/Manush_Lagbe.Com/blob/main/icons/ER_Diagram.png?raw=true)
+![ER Diagram](https://github.com/tithi-sust/Manush_Lagbe.Com/blob/main/icons/ER_Diagram.png?raw=true) <br>
 #### DEMONSTRATION
 The project's demonstration video will be found in here:<br>
 
@@ -27,6 +27,6 @@ The project's demonstration video will be found in here:<br>
 
 
 <br>
-Every details are listed in this doc.
+Every details are listed in this doc:
 <a href="https://docs.google.com/document/d/1L73B_FTM0_hO6uaxNzzwqd2u9qm6KS1d9j1KXLWFLL8/edit?usp=sharing">google docs</a>
 
