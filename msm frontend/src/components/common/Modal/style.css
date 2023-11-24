@@ -1,0 +1,58 @@
+.ModalBody {
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    overflow: auto;
+    background-color: rgb(0, 0, 0, 0.5);
+    display: none;
+  }
+  .ModalContainer {
+    background-color: white;
+    width: fit-content;
+    padding: 16px;
+    padding-top: 8px;
+    padding-bottom: 32px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 40vh auto;
+    position: sticky;
+  }
+  .ModalCloseButton {
+    width: 36px;
+    float: right;
+    cursor: pointer;
+  }
+  .ModalCloseContaier {
+    width: 100;
+    height: 45px;
+    font-size: 36px;
+    text-align: left;
+    color:#a9a9a9;
+  }
+  .filter_modal_list_name{
+    font-size: 18px;
+    font-weight: bold;
+    margin:auto;
+    }
+    .filterModlaListItem{
+    width: 240px;
+    display: flex;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-bottom: 16px;
+    padding:16px;
+    box-shadow: 0px 3px 0px #a9a9a9;
+    cursor: pointer;
+    }
+    .filterModlaListItem:hover{
+        border-color: green;
+        color: green;
+      }
+      .filterModlaListItem:hover .service_modal_list_charge{
+        color: green;
+      }
+    

@@ -1,0 +1,111 @@
+#workerwork {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    padding: 0px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    min-height: 70vh;
+  }
+
+  #workersworktxt {
+    font-size: 36px;
+    font-weight: bold;
+    color: rgb(186, 184, 181);
+    margin-bottom: 16px;
+  }
+
+  .rectangle {
+    display: flex;
+    width: 450px;
+    height: 100px;
+    background: white;
+    border: 2px solid #dedbdb;
+    border-radius: 8px;
+    box-shadow: 1px 3px grey;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 18px;
+    padding-left: 16px;
+    padding-right: 16px;
+    cursor: pointer;
+  }
+
+  .workerimg {
+    width: 75px;
+    height: 75px;
+    border: 2px solid white;
+    border-radius: 100px;
+    float: left;
+    cursor: pointer;
+    margin: auto;
+    
+  }
+  .rectangle:hover{
+    border-color: green;
+  }
+
+  .rectxt {
+    color: rgb(66, 64, 64);
+    font-size: 24px;
+    text-align: left;
+    margin-left: 0px;
+    width:240px ;
+    float:left;
+  }
+
+  .servicetxt {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;    
+  }
+
+  .statustxt {
+    color: rgb(138, 118, 118);
+    font-size: 15px;
+    font-weight: 400;
+    padding: 16px;
+    text-align: left;
+    margin-left: 1px;
+
+  }
+ 
+  .runningbutton {
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px;
+    cursor: pointer;
+    margin: auto;
+    border:1px solid green
+  }
+  
+  .endedbutton {
+    background-color: rgb(164, 171, 164);
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 8px;
+    cursor: pointer;
+    margin: auto;
+    border:1px solid rgb(164, 171, 164)
+  }
+  
+
+  .deleteimg {
+    width: 30px;
+    height: 30px;
+    float: right;
+    cursor: pointer;
+    padding: 8px;
+    margin: auto;
+    
+  }
+  .deleteimg:hover {
+    border: 2px solid white;
+  }
